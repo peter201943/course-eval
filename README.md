@@ -1,9 +1,11 @@
 
 [![MIT License](https://img.shields.io/github/license/peter201943/student-voice.svg?style=flat)](https://opensource.org/licenses/MIT)
+[![License: CC BY 4.0](https://licensebuttons.net/l/by/4.0/80x15.png)](https://creativecommons.org/licenses/by/4.0/)
+[![GitLab](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=gitlab&logoColor=white&label=CourseEval)](https://gitlab.cci.drexel.edu/courseeval/team-blue)
 [![Drexel](resources/drexel-logo.svg) cs.drexel.edu](https://www.cs.drexel.edu/)
 
-# [![StudentVoice](resources/title.png)](https://gitlab.cci.drexel.edu/courseeval/team-blue)
-(MISSING TAGLINE)
+# [![CourseEval](resources/title.png)](https://gitlab.cci.drexel.edu/courseeval/team-blue)
+A student project to learn FOSS contributing practices.
 
 
 ## Contents
@@ -12,9 +14,7 @@
 - [Getting Started](#getting-started)
 - [Roadmap](#roadmap)
 - [Contributing](#contributing)
-  - [Architecture](#architecture)
-  - [Prerequisites](#prerequisites)
-  - [Installation](#installation)
+  - [Guidelines](#guidelines)
   - [Accepting Changes](#accepting-changes)
 - [License](#license)
 - [Contact](#contact)
@@ -24,13 +24,16 @@
 
 
 ## About
-A Student Study Project to develop [Course Evaluation](https://en.wikipedia.org/wiki/Course_evaluation) platform prototypes and associated design documents. By SE420 Open Source Engineering Team Blue for FA22Q2 "Winter" at [Drexel University](https://drexel.edu/).
+A Student Study Project to develop [Course Evaluation](https://en.wikipedia.org/wiki/Course_evaluation) platform prototypes and associated design documents.
+By SE420 Open Source Engineering Team Blue for FA22Q2 "Winter" at [Drexel University](https://drexel.edu/).
 
 See [Notes](notes/readme.md) for more detailed information, including proposals.
 
 
 ## Getting Started
-(MISSING)
+Please join us on [Discord](https://discord.gg/QKBxxSS9), we are largely focused on *discussing* and *documenting* steps as opposed to outright *programming*.
+
+We currently do a lot of work in *Microsoft Word* and *Markdown*, so having a Microsoft account and a decent text editor is recommendable.
 
 
 ## Roadmap
@@ -41,40 +44,50 @@ See [**Issues**](https://gitlab.cci.drexel.edu/courseeval/team-blue/-/issues) fo
 
 ## Contributing
 
-### Architecture
-See [`ARCH.md`](ARCH.md) to get a basic understanding of how the final project works.
-Also take a look at some of the other projects listed under [`CREDITS.md`](CREDITS.md) to get a good understanding of how the tools work.
-
-### Prerequisites
-See each Prototype folder for specific requirements.
-
-### Installation
-1. Clone the Repo
-  ```bash
-  git clone https://gitlab.cci.drexel.edu/courseeval/team-blue
-  ```
-2. See each Prototype folder for specific steps
+### Guidelines
+Please see [CONTRIBUTING](CONTRIBUTING.md) and [CONDUCT](CONDUCT.md) for specifics.
 
 ### Accepting Changes
-This is a low-priority project for @peter201943 and as such pull requests are not likely to be accepted.
+This is a low-priority project and as such pull requests are not likely to be accepted.
 You will be better served by forking it and continuing development of it on your own.
 
 
 ## License
-Code is distributed under the MIT license. Documentation is distributed under the CC-BY license. See [`LICENSE`](LICENSE) for more information.  
+Code is distributed under the MIT license. Documentation is distributed under the CC-BY license. See [`LICENSE`](LICENSE.md) for more information.  
 ![](resources/cc-by-logo.png)
 
 
 ## Contact
 
-### Primary Maintainer
-Peter James Mangelsdorf  
-[![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=flat&logo=microsoft-outlook&logoColor=white&label=peter.j.mangelsdorf)](mailto:peter.j.mangelsdorf@outlook.com)  
-[![Discord](https://img.shields.io/badge/%3CServer%3E-%237289DA.svg?style=flat&logo=discord&logoColor=white&label=peter201943%238017)](https://discord.com/)  
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white&label=peter201943)](https://github.com/peter201943/)  
-
 ### Project
+**CourseEval**  
 [![Discord](https://img.shields.io/badge/%3CServer%3E-%237289DA.svg?style=flat&logo=discord&logoColor=white&label=SE420%2FFA22Q2)](https://discord.gg/QKBxxSS9)  
+[![GitLab](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=gitlab&logoColor=white&label=CourseEval)](https://gitlab.cci.drexel.edu/courseeval/team-blue)  
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white&label=Mirror)](https://github.com/peter201943/student-voice)  
+
+### Primary Maintainer
+**Peter James Mangelsdorf**  
+[![Discord](https://img.shields.io/badge/%3CServer%3E-%237289DA.svg?style=flat&logo=discord&logoColor=white&label=peter201943%238017)](https://discord.com/users/312363766954065930)  
+[![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=flat&logo=microsoft-outlook&logoColor=white&label=peter.j.mangelsdorf)](mailto:peter.j.mangelsdorf@outlook.com)  
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white&label=peter201943)](https://github.com/peter201943/)  
+[![Drexel](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=flat&logo=microsoft-outlook&logoColor=white&label=pjm349@drexel.edu)](mailto:pjm349@drexel.edu)  
+
+### Other Maintainers
+**Hoang Nguyen**  
+[![Discord](https://img.shields.io/badge/%3CServer%3E-%237289DA.svg?style=flat&logo=discord&logoColor=white&label=Mizores%230500)](https://discord.com/users/131543410627575808)  
+[![Drexel](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=flat&logo=microsoft-outlook&logoColor=white&label=hn374@drexel.edu)](mailto:hn374@drexel.edu)  
+
+**Jay Patel**  
+[![Discord](https://img.shields.io/badge/%3CServer%3E-%237289DA.svg?style=flat&logo=discord&logoColor=white&label=Jay%20Patel%232866)](https://discord.com/users/892071574948184124)  
+[![Drexel](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=flat&logo=microsoft-outlook&logoColor=white&label=jp3592@drexel.edu)](mailto:jp3592@drexel.edu)  
+
+**Charles Porter**  
+[![Discord](https://img.shields.io/badge/%3CServer%3E-%237289DA.svg?style=flat&logo=discord&logoColor=white&label=scooterjenkins%234332)](https://discord.com/users/555963456445218826)  
+[![Drexel](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=flat&logo=microsoft-outlook&logoColor=white&label=cap399@drexel.edu)](mailto:cap399@drexel.edu)  
+
+**Eric Savoy**  
+[![Discord](https://img.shields.io/badge/%3CServer%3E-%237289DA.svg?style=flat&logo=discord&logoColor=white&label=Eric%20Savoy%234687)](https://discord.com/users/751931130780975205)  
+[![Drexel](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=flat&logo=microsoft-outlook&logoColor=white&label=ets43@drexel.edu)](mailto:ets43@drexel.edu)  
 
 
 ## Acknowledgements
