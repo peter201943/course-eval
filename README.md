@@ -1,18 +1,8 @@
 
-
 [![MIT License](https://img.shields.io/github/license/peter201943/student-voice.svg?style=flat)](https://opensource.org/licenses/MIT)
-<!--
-  FUTURE: Update Shields with:
-  - Web Hosting Platform (Amazon? Azure?)
-  - Data Hosting Platform (Amazon? Google?)
-  - Web Platform (Angular?)
-  - Data Platform (Postgres?)
-  - Language Platform (Kotlin? Java?)
-  - Special Features (JSON-LD? RDF?)
--->
+[![Drexel](resources/drexel-logo.svg) cs.drexel.edu](https://www.cs.drexel.edu/)
 
-
-# [![StudentVoice](resources/title.png)](https://github.com/peter201943/student-voice)
+# [![StudentVoice](resources/title.png)](https://gitlab.cci.drexel.edu/courseeval/team-blue)
 (MISSING TAGLINE)
 
 
@@ -20,7 +10,6 @@
 - [Contents](#contents)
 - [About](#about)
 - [Getting Started](#getting-started)
-- [Usage](#usage)
 - [Roadmap](#roadmap)
 - [Contributing](#contributing)
   - [Architecture](#architecture)
@@ -44,18 +33,10 @@ See [Notes](notes/readme.md) for more detailed information, including proposals.
 (MISSING)
 
 
-## Usage
-Visit (MISSING WEBSITE) to try the platform in real time!
-
-Check the [**Releases**](https://github.com/peter201943/student-voice/releases) for the latest executable on your server platform.
-
-See [`INSTALL`](INSTALL.md) for more specific help.
-
-
 ## Roadmap
 (MISSING)
 
-See [**Issues**](https://github.com/peter201943/student-voice/issues) for more details.
+See [**Issues**](https://gitlab.cci.drexel.edu/courseeval/team-blue/-/issues) for more details.
 
 
 ## Contributing
@@ -70,7 +51,7 @@ See each Prototype folder for specific requirements.
 ### Installation
 1. Clone the Repo
   ```bash
-  git clone https://github.com/peter201943/InStructEd.git
+  git clone https://gitlab.cci.drexel.edu/courseeval/team-blue
   ```
 2. See each Prototype folder for specific steps
 
@@ -80,7 +61,8 @@ You will be better served by forking it and continuing development of it on your
 
 
 ## License
-Distributed under the MIT License. See [`LICENSE`](LICENSE) for more information.
+Code is distributed under the MIT license. Documentation is distributed under the CC-BY license. See [`LICENSE`](LICENSE) for more information.  
+![](resources/cc-by-logo.png)
 
 
 ## Contact
