@@ -16,10 +16,8 @@ A student project to learn FOSS contributing practices.
 - [Contributing](#contributing)
   - [Guidelines](#guidelines)
   - [Accepting Changes](#accepting-changes)
-- [License](#license)
+- [Licensing](#licensing)
 - [Contact](#contact)
-  - [Primary Maintainer](#primary-maintainer)
-  - [Project](#project)
 - [Acknowledgements](#acknowledgements)
 
 
@@ -27,7 +25,7 @@ A student project to learn FOSS contributing practices.
 A Student Study Project to develop [Course Evaluation](https://en.wikipedia.org/wiki/Course_evaluation) platform prototypes and associated design documents.
 By SE420 Open Source Engineering Team Blue for FA22Q2 "Winter" at [Drexel University](https://drexel.edu/).
 
-See [Notes](notes/readme.md) for more detailed information, including proposals.
+See the latest discussion [notes](documents/discussions/) for more detailed information, including proposals.
 
 
 ## Getting Started
@@ -45,14 +43,14 @@ See [**Issues**](https://gitlab.cci.drexel.edu/courseeval/team-blue/-/issues) fo
 ## Contributing
 
 ### Guidelines
-Please see [CONTRIBUTING](CONTRIBUTING.md) and [CONDUCT](CONDUCT.md) for specifics.
+Please see [CONTRIBUTING](documents/developers/CONTRIBUTING.md) and [CONDUCT](documents/developers/CONDUCT.md) for specifics.
 
 ### Accepting Changes
 This is a low-priority project and as such pull requests are not likely to be accepted.
 You will be better served by forking it and continuing development of it on your own.
 
 
-## License
+## Licensing
 Code is distributed under the MIT license. Documentation is distributed under the CC-BY license. See [`LICENSE`](LICENSE.md) for more information.  
 ![](resources/cc-by-logo.png)
 
