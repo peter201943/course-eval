@@ -86,6 +86,9 @@ Code is distributed under the MIT license. Documentation is distributed under th
 [![Discord](https://img.shields.io/badge/%3CServer%3E-%237289DA.svg?style=flat&logo=discord&logoColor=white&label=Eric%20Savoy%234687)](https://discord.com/users/751931130780975205)  
 [![Drexel](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=flat&logo=microsoft-outlook&logoColor=white&label=ets43@drexel.edu)](mailto:ets43@drexel.edu)  
 
+### Greg Hislop (Course Instructor)
+[![Drexel](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=flat&logo=microsoft-outlook&logoColor=white&label=hislopg@drexel.edu)](mailto:hislopg@drexel.edu)  
+
 
 ## Acknowledgements
 See [`CREDITS.md`](CREDITS.md) for a complete list of external resources.
