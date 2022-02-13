@@ -27,6 +27,8 @@ By SE420 Open Source Engineering Team Blue for FA22Q2 "Winter" at [Drexel Univer
 
 See the latest discussion [notes](documents/discussions/) for more detailed information, including proposals.
 
+If you have a security concern, please check the [SECURITY](documents/public/SECURITY.md) for help.
+
 
 ## Getting Started
 Please join us on [Discord](https://discord.gg/QKBxxSS9), we are largely focused on *discussing* and *documenting* steps as opposed to outright *programming*.

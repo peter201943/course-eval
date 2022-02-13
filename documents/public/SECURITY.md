@@ -8,3 +8,5 @@ If you think any of the following fit your concern, please contact [Peter Mangel
 - leaked sensitive personal information regarding any stakeholder or member
 - dangerous team processes
 - inappropriate member activity
+
+For all other concerns, please [make a new issue on the tracker](https://gitlab.cci.drexel.edu/courseeval/team-blue/-/issues).
