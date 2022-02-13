@@ -11,15 +11,12 @@
   - [Code Process](#code-process)
   - [Document Process](#document-process)
 - [Internal Outreach](#internal-outreach)
-  - [Team Blue](#team-blue)
-  - [Other Teams](#other-teams)
-  - [Instructor](#instructor)
-  - [Drexel IT](#drexel-it)
 - [External Outreach](#external-outreach)
 - [Code Standards](#code-standards)
   - [Guests](#guests)
   - [Testing](#testing)
 - [Document Standards](#document-standards)
+- [Other](#other)
 
 ## Introduction
 This set of guidelines is still in it's infancy, some sections may be incomplete.
@@ -99,6 +96,13 @@ The whole point of this process is to involve the people on this team, hence why
 4. Get feedback on your documents.
 
     In the spirit of democracy, try to involve the other members of the team when you can.
+    When you are comfortable with your document, ping one or two team members on [Discord](https://discord.gg/QKBxxSS9) to get their thoughts.
+    Alternatively, wait until the next meeting and bring up your document then (works best for proposals).
+
+    Try to accept feedback gracefully. This can be difficult, so it may be worthwhile to look over the [Code of Conduct](CONDUCT.md) every now and then.
+
+    This is also the last formal step of document writing, as you can return to step 3 and loop until you are satisfied with your document.
+    At the end of the day, documents are a tool for communication. Once that communication has happened, it is time to move on.
 
 Now, with the above, the use of Discord and Issues is strongly encouraged. If you are not familiar with how to use Discord, you should take some time to learn some Discord etiquette.
 [A Suggestion for Discord Channel Etiquette](https://medium.com/@wysiwyg.comment/a-suggestion-for-discord-channel-etiquette-2b4d1a20ea0d) and
@@ -122,20 +126,73 @@ With regards to issues, it is very important to do three things:
 
 ## Internal Outreach
 
-### Team Blue
+You may have guessed by now that this project heavily revolves around communication.
+One of the first things you will want to do is reach out to *someone*.
+The best way to do that *internally* is to reach out to one of the teams.
+All of the teams can be immediately reached from the [Discord](https://discord.gg/QKBxxSS9),
+but for formal inquiries you should contact each team's *Primary Maintainer*.
 
-### Other Teams
+**Team Red**'s Primary Maintainer is [*Hangyu Li*](mailto:hl664@drexel.edu)
 
-### Instructor
+**Team Green**'s Primary Maintainer is [*Katarina Galic*](mailto:kg896@drexel.edu)
 
-### Drexel IT
+**Team Blue**'s Primary Maintainer is [*Peter Mangelsdorf*](mailto:pjm349@drexel.edu)
+
+**Team Purple**'s Primary Maintainer is [*Matthew Kirchheimer*](mailto:msk356@drexel.edu)
+
+**Team Orange**'s Primary Maintainer is [*Mike Martin*](mailto:mjm682@drexel.edu)
+
+You can also always reach out to the Course Instructor [*Greg Hislop*](mailto:hislopg@drexel.edu)
 
 ## External Outreach
+
+Depending on what project we go with, we will add some guidelines for interacting with them as we learn them.
 
 ## Code Standards
 
 ### Guests
+At the end of the day, we are guests to someone else's codebase.
+You should learn whatever guidelines they have have and follow them.
+This is not a lot of text, but the implications are big, you must study how the external group writes their code.
 
-### Testing
+Otherwise, we recommend taking the time to thoroughly *document* and *test* your code.
+[JavaDocs](https://en.wikipedia.org/wiki/Javadoc) and [Unit tests](https://en.wikipedia.org/wiki/Unit_testing) are a good place to start.
 
 ## Document Standards
+Each document has a specific:
+
+- Location
+- Purpose
+- Structure
+
+You can find all of these in the [`DEVELOPERS`](../developers/) folder under the correspondingly named files.
+You can also find blank templates for most of these documents, as well as previous documents to study as examples.
+
+Briefly, the kinds of documents in this repository are:
+- Discussions
+- Issues
+- Class Assignments
+- Decisions
+
+[**Discussions**](../discussions/) are like meeting notes, but over a much longer period of time. You can also think of them as working-notes.
+These do not have an explicit formatting, but do have a general purpose of helping to build understanding.
+Most occur on a daily basis, and are named as such using YYYY-MM-DD ([ISO 8601](https://en.wikipedia.org/wiki/ISO_8601)).
+This is not a bad place to look for discussion on a particular issue.
+You can also check the [Discord](https://discord.gg/QKBxxSS9) for any recent conversations as well.
+
+[**Issues**](https://gitlab.cci.drexel.edu/courseeval/team-blue/-/issues)
+are specific tasks assigned to specific people for specific periods of time. They contrast sharply with discussions.
+Use these to get things done. These are the bread-and-butter of this project, and are likely going to consume the majority of everyone's time.
+
+**Class Assignments** (most often Word documents) are requirements from the course instructor.
+To make working on these as easy as possible, they are hosted online in a private Microsoft Team.
+Most of these are pretty dull, but if you want access to any of them let [Peter](https://discord.com/users/312363766954065930) know.
+
+[**Decisions**](../decisions/) are formal write-ups of particular rules or processes.
+Given the narrow timeframe and scope of the project, these are going to be sparse and focus on just a few choices.
+
+## Other
+If there is anything else not covered here, reach out to the team.
+This document is young, and open to suggestions.
+
+Take Care.
