@@ -1,8 +1,6 @@
 
 # Credits
 
-TODO
-
 ## [Shields.IO](https://shields.io/)
 - For displaying fancy badges on the README
 
@@ -11,3 +9,6 @@ TODO
 
 ## [Contributor Covenant](https://www.contributor-covenant.org/)
 - For the Code of Conduct
+
+## [GitLab's Issue Templates](https://gitlab.com/gitlab-org/gitlab/-/tree/master/.gitlab/issue_templates)
+- For our own issue templating
