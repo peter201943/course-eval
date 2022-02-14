@@ -1,0 +1,3 @@
+[submodule "EvaP"]
+	path = EvaP
+	url = git@gitlab.cci.drexel.edu:courseeval/EvaP.git
