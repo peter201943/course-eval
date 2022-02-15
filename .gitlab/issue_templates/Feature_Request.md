@@ -20,8 +20,8 @@
 ## Proposed solution
 <!-- How would you like to see this issue resolved? !-->
 
-## Examples
-<!-- Are there any examples of this which exist in other software? !-->
+## Deliverable
+<!-- What is the product that will emerge from this issue? !-->
 
 ## Priority/Severity
 <!-- Delete as appropriate. The priority and severity assigned may be different to this !-->
