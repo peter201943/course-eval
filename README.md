@@ -25,7 +25,7 @@ A student project to learn FOSS contributing practices.
 A Student Study Project to develop [Course Evaluation](https://en.wikipedia.org/wiki/Course_evaluation) platform prototypes and associated design documents.
 By SE420 Open Source Engineering Team Blue for FA22Q2 "Winter" at [Drexel University](https://drexel.edu/).
 
-See the latest discussion [notes](discussions/) for more detailed information, including proposals.
+See the latest discussion (on OneNote, please contact Peter for access) for more detailed information, including proposals.
 
 If you have a security concern, please check the [`SECURITY`](SECURITY.md) for help.
 
