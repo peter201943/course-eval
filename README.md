@@ -25,9 +25,9 @@ A student project to learn FOSS contributing practices.
 A Student Study Project to develop [Course Evaluation](https://en.wikipedia.org/wiki/Course_evaluation) platform prototypes and associated design documents.
 By SE420 Open Source Engineering Team Blue for FA22Q2 "Winter" at [Drexel University](https://drexel.edu/).
 
-See the latest discussion [notes](documents/discussions/) for more detailed information, including proposals.
+See the latest discussion [notes](discussions/) for more detailed information, including proposals.
 
-If you have a security concern, please check the [`SECURITY`](documents/public/SECURITY.md) for help.
+If you have a security concern, please check the [`SECURITY`](SECURITY.md) for help.
 
 
 ## Getting Started
@@ -45,7 +45,7 @@ See [**Issues**](https://gitlab.cci.drexel.edu/courseeval/team-blue/-/issues) fo
 ## Contributing
 
 ### Guidelines
-Please see [`CONTRIBUTING`](documents/developers/CONTRIBUTING.md) and [`CONDUCT`](documents/developers/CONDUCT.md) for specifics.
+Please see [`CONTRIBUTING`](CONTRIBUTING.md) and [`CONDUCT`](CONDUCT.md) for specifics.
 
 ### Accepting Changes
 This is a low-priority project and as such pull requests are not likely to be accepted.
