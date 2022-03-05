@@ -12,6 +12,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 - Updated EvaP fork from GitHub
 - Significantly compacted document structure and moved all documents to project root
 - Moved many items to OneDrive or OneNote
+- [Sprint 1 Milestone Complete](https://gitlab.cci.drexel.edu/courseeval/team-blue/-/milestones/1#tab-issues)
 
 ## [2022-02-13](https://gitlab.cci.drexel.edu/courseeval/team-blue/-/commit/580a2bb7a3c7284d30c65df20ca30965f5bbb7f4)
 
