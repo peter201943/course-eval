@@ -7,19 +7,19 @@
 
 ## 3. [Download VirtualBox](https://www.virtualbox.org/wiki/Downloads) or an equivalent compatible Virtual Machine System
 
-## 4. Cleanup Line Endings (Windows Only)
+## 4. Launch Git Bash with Administrative Privileges (Windows Only) for any following commands
+
+## 5. Clone the Team Repo
+```bash
+git clone --recurse-submodules git@gitlab.cci.drexel.edu:courseeval/team-blue.git se420-team-blue
+```
+
+## 6. Cleanup Line Endings (Windows Only)
     
 Make sure you are in the `team-blue` directory and can see the `.git` directory before running this command.
 
 ```bash
 git config core.autocrlf input
-```
-
-## 5. Launch Git Bash with Administrative Privileges (Windows Only) for any following commands
-
-## 6. Clone the Team Repo
-```bash
-git clone --recurse-submodules git@gitlab.cci.drexel.edu:courseeval/team-blue.git se420-team-blue
 ```
 
 ## 7. Navigate to the EvaP Directory

@@ -7,6 +7,9 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
 ## [2022-03-04](https://gitlab.cci.drexel.edu/courseeval/team-blue/-/commit/1fb12013d0045e2de1e9cead69186837ec64e8ce)
 
+### Added
+- Created a custom [Installation Guide](INSTALL.md) for working with the project
+
 ### Changed
 - Moved all documents from `documents/` to the OneDrive (privacy)
 - Updated EvaP fork from GitHub
