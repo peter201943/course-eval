@@ -14,43 +14,48 @@
 git clone --recurse-submodules git@gitlab.cci.drexel.edu:courseeval/team-blue.git se420-team-blue
 ```
 
-## 6. Cleanup Line Endings (Windows Only)
+## 6. Navigate to the Project Directory
+```bash
+cd se420-team-blue
+```
+
+## 7. Cleanup Line Endings (Windows Only)
     
-Make sure you are in the `team-blue` directory and can see the `.git` directory before running this command.
+Make sure you can see the `.git` directory before running this command.
 
 ```bash
 git config core.autocrlf input
 ```
 
-## 7. Navigate to the EvaP Directory
+## 8. Navigate to the EvaP Directory
 ```bash
-cd se420-team-blue
 cd EvaP
 ```
 
-## 8. Activate Vagrant (and Apply Updates)
+## 9. Activate Vagrant (and Apply Updates)
 ```bash
 vagrant up
 ```
 
-## 9. Activate Vagrant Connection
+## 10. Activate Vagrant Connection
 ```bash
 vagrant ssh
 ```
 
-## 10. Launch the Server
+## 11. Launch the Server
 ```bash
 ./manage.py run
 ```
 
-## 11. Access the Website  
-Open a browser to: http://localhost:8000/  
-login with:  
+## 12. Access the Website  
+Open a browser to: http://localhost:8000/ and login with:  
 ```yaml
 email:    evap@institution.example.com
 password: evap
 ```
 
-## NOTE
-[Read E-Valuation's README](https://github.com/e-valuation/EvaP/#installation) and [Installation Guide](https://github.com/e-valuation/EvaP/wiki/Installation) before beginning but ***DO NOT FOLLOW THEIR STEPS*** (Their steps download to a separate folder and will create problems later when you go to install).
+## NOTICE
+Read E-Valuation's [README](https://github.com/e-valuation/EvaP/#installation) and [Installation Guide](https://github.com/e-valuation/EvaP/wiki/Installation) before beginning but ***DO NOT FOLLOW THEIR STEPS***
+
+Their steps download to a separate folder and will create problems later when you try to commit merges to the project.
 
