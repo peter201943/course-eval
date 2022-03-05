@@ -16,6 +16,7 @@
   - [Guests](#guests)
   - [Testing](#testing)
 - [Document Standards](#document-standards)
+- [Finding Issues](#finding-issues)
 - [Other](#other)
 
 ## Introduction
@@ -190,6 +191,37 @@ Most of these are pretty dull, but if you want access to any of them let [Peter]
 
 [**Decisions**](../decisions/) are formal write-ups of particular rules or processes.
 Given the narrow timeframe and scope of the project, these are going to be sparse and focus on just a few choices.
+
+## Finding Issues
+
+### Why Should You Spend Time Looking for Pre-Existing Issues?
+- External Team (e-valuation) will benefit from clarity of team action
+- Course Instructor will benefit from clarity of actions
+- EvaP Team benefits from more clear communication of intent and lack of ambiguous tasks
+- The Course Instructor and EvaP Volunteers benefit from more understandable processes
+- Team Members benefit from more refined work process
+- Team Members at risk of getting confused/bogged down in these steps
+
+### Process
+- Using:
+  - [EvaP Minor Issues](https://github.com/e-valuation/EvaP/labels/%5BP%5D%20Minor)
+  - [EvaP Easy Issues](https://github.com/e-valuation/EvaP/labels/%5BS%5D%20Easy)
+  - [EvaP Small Issues](https://github.com/e-valuation/EvaP/labels/%5BS%5D%20Small)
+  - [EvaP Very Small Issues](https://github.com/e-valuation/EvaP/labels/%5BS%5D%20Very%20small)
+- From these find issues that can be resolved within remaining time (2 weeks)
+- See the [Step Template for Follow On Issues](#step-template-for-follow-on-issues) below for more details
+
+### Step Template for Follow On Issues
+1. Find an Issue on GitHub
+2. Explore Issue Details
+3. Attempt to Recreate Issue in Code/Locate Source of Error
+4. If solution is apparent, create a notifying message on the issue on GitHub
+5. Create a mirror issue in this repo's issue tracker
+6. Make a new branch on the local GitLab mirror of EvaP and name it after the issue (like `1663-prioritize-grading`)
+7. Comment a link to your branch on the GitLab issue you opened and on the original GitHub issue
+8. Commit your changes and run tests to the local mirror
+9. Once satisfied, create a new **Pull Request** on the EvaP GitHub repo
+10. Update issues with details once submitted
 
 ## Other
 If there is anything else not covered here, reach out to the team.
