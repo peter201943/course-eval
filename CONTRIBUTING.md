@@ -156,6 +156,11 @@ At the end of the day, we are guests to someone else's codebase.
 You should learn whatever guidelines they have have and follow them.
 This is not a lot of text, but the implications are big, you must study how the external group writes their code.
 
+One explicit requirement is to run some scripts before creating a pull request:
+- `./manage.py test` (runs the test suite)
+- `./manage.py lint` (runs the linter)
+- `./manage.py format` (applies automatic code formatting on Python files)
+
 Otherwise, we recommend taking the time to thoroughly *document* and *test* your code.
 [JavaDocs](https://en.wikipedia.org/wiki/Javadoc) and [Unit tests](https://en.wikipedia.org/wiki/Unit_testing) are a good place to start.
 

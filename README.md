@@ -35,6 +35,8 @@ Please join us on [Discord](https://discord.gg/QKBxxSS9), we are largely focused
 
 We currently do a lot of work in *Microsoft Word* and *Markdown*, so having a Microsoft account and a decent text editor is recommendable.
 
+For code-related portions of the project, please consult the [`INSTALL`](INSTALL.md) and the [e-valuation GitHub](https://github.com/e-valuation/EvaP/) for how to run the software.
+
 
 ## Roadmap
 (MISSING)
