@@ -9,21 +9,20 @@
 
 ## 4. Launch Git Bash with Administrative Privileges (Windows Only) for any following commands
 
-## 5. Clone the Team Repo
+## 5. Cleanup Line Endings (Windows Only)
+    
+```bash
+git config --global core.autocrlf input
+```
+
+## 6. Clone the Team Repo
 ```bash
 git clone --recurse-submodules git@gitlab.cci.drexel.edu:courseeval/team-blue.git se420-team-blue
 ```
 
-## 6. Navigate to the Project Directory
+## 7. Navigate to the Project Directory
 ```bash
 cd se420-team-blue
-```
-
-## 7. Cleanup Line Endings (Windows Only)
-    
-```bash
-git config --global core.autocrlf input
-git config --list # make sure the "core.autocrlf=input", if not, DO NOT CONTINUE!
 ```
 
 ## 8. Navigate to the EvaP Directory
