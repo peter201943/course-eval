@@ -5,6 +5,14 @@ All notable changes to this project will be documented in this file.
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
+## [2022-03-04](https://gitlab.cci.drexel.edu/courseeval/team-blue/-/commit/1fb12013d0045e2de1e9cead69186837ec64e8ce)
+
+### Changed
+- Moved all documents from `documents/` to the OneDrive (privacy)
+- Updated EvaP fork from GitHub
+- Significantly compacted document structure and moved all documents to project root
+- Moved many items to OneDrive or OneNote
+
 ## [2022-02-13](https://gitlab.cci.drexel.edu/courseeval/team-blue/-/commit/580a2bb7a3c7284d30c65df20ca30965f5bbb7f4)
 
 ### Added
