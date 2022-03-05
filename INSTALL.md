@@ -21,10 +21,9 @@ cd se420-team-blue
 
 ## 7. Cleanup Line Endings (Windows Only)
     
-Make sure you can see the `.git` directory before running this command.
-
 ```bash
-git config core.autocrlf input
+git config --global core.autocrlf input
+git config --list # make sure the "core.autocrlf=input", if not, DO NOT CONTINUE!
 ```
 
 ## 8. Navigate to the EvaP Directory
@@ -36,6 +35,8 @@ cd EvaP
 ```bash
 vagrant up
 ```
+While this is running, also open the VirtualBox manager app and click "Show" to open the terminal.  
+***KEEP THIS WINDOWN OPEN***, the installation can stall if you do not.  
 
 ## 10. Activate Vagrant Connection
 ```bash
