@@ -8,7 +8,14 @@
 A student project to learn FOSS contributing practices.
 
 
+## Archival Notice
+This project has been *archived*.
+The original instructional course for this project has completed and all involved team members have moved to other projects.
+There are *no* active or primary maintainers for this project.
+
+
 ## Contents
+- [Archival Notice](#archival-notice)
 - [Contents](#contents)
 - [About](#about)
 - [Getting Started](#getting-started)
@@ -39,9 +46,7 @@ For code-related portions of the project, please consult the [`INSTALL`](INSTALL
 
 
 ## Roadmap
-(MISSING)
-
-See [**Issues**](https://gitlab.cci.drexel.edu/courseeval/team-blue/-/issues) for more details.
+No future progress planned, see [Archival Notice](#archival-notice).
 
 
 ## Contributing
