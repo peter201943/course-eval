@@ -6,7 +6,7 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
 
-## [2022-03-11]()
+## [2022-03-11](https://gitlab.cci.drexel.edu/courseeval/team-blue/-/commit/0a267548d87c05bcf883273a44f92375d217d83c)
 
 ### Added
 - Censored OneNote Notebook to Documents
