@@ -1,0 +1,823 @@
+Title,Description,Issue ID,URL,State,Author,Author Username,Assignee,Assignee Username,Confidential,Locked,Due Date,Created At (UTC),Updated At (UTC),Closed At (UTC),Milestone,Weight,Labels,Time Estimate,Time Spent
+Introduce Team to Issue Tracker/Develop Good Issue Habits,"## What is the engineering productivity problem to solve?
+
+The team currently does not use the issue tracker (issue tracker is new).
+
+### Problem identification checklist
+
+- [x] The root cause of the problem is identified.
+- [x] The surface of the problem is as small as possible.
+
+## What are the potential solutions?
+
+1. Populate the issue tracker with some initial easy issues for the rest of the team to use
+2. Tag the rest of the team to this issue to draw their attention to it
+3. Ping team members on Discord to the existence of the new issues
+4. Email team members with info on the issue tracker
+5. Assign each team member a literal task of ""move this issue to the 'done' column""
+
+- [ ] All potential solutions are listed.
+- [x] A solution has been chosen for the first iteration: **all of the above** (except email, nobody likes email)
+
+## Verify that the solution has improved the situation
+
+- [ ] The solution improved the situation.
+  - If yes, check this box and close the issue. Well done! :tada:
+  - Otherwise, create a new ""Productivity Improvement"" issue. You can re-use the description from this issue, but another solution should be chosen this time.
+
+## Credit
+[GitLab Productivity Improvement Issue Template](https://gitlab.com/gitlab-org/gitlab/-/blob/master/.gitlab/issue_templates/Productivity%20Improvement.md)
+2022-02-13",1,https://gitlab.cci.drexel.edu/courseeval/team-blue/-/issues/1,Closed,Peter Mangelsdorf,pjm349,Peter Mangelsdorf,pjm349,No,No,2022-02-14,2022-02-13 10:27:24,2022-03-04 23:56:49,2022-02-14 16:50:55,Sprint 1,,"Improvement,Topic: Team",0,0
+Learn GitLab Issues 0,"Hello!
+
+Can you please move this issue from the ""In Progress"" Column to the ""Resolved"" Column?
+
+Thank you.",2,https://gitlab.cci.drexel.edu/courseeval/team-blue/-/issues/2,Closed,Peter Mangelsdorf,pjm349,Peter Mangelsdorf,pjm349,No,No,2022-02-15,2022-02-13 10:30:42,2022-02-15 06:11:08,2022-02-15 06:11:08,Sprint 1,,"Improvement,Topic: Team",0,0
+Learn GitLab Issues 1,"Hello!
+
+Can you please move this issue from the ""In Progress"" Column to the ""Resolved"" Column?
+
+Thank you.",3,https://gitlab.cci.drexel.edu/courseeval/team-blue/-/issues/3,Closed,Peter Mangelsdorf,pjm349,Charles Porter,cap399,No,No,2022-02-15,2022-02-13 10:31:16,2022-03-05 02:03:36,2022-02-15 06:13:05,Sprint 1,,"Improvement,Topic: Team",0,0
+Learn GitLab Issues 2,"Hello!
+
+Can you please move this issue from the ""In Progress"" Column to the ""Resolved"" Column?
+
+Thank you.",4,https://gitlab.cci.drexel.edu/courseeval/team-blue/-/issues/4,Closed,Peter Mangelsdorf,pjm349,Eric Savoy,ets43,No,No,2022-02-15,2022-02-13 10:31:52,2022-02-15 06:10:50,2022-02-15 06:10:50,Sprint 1,,"Improvement,Topic: Team",0,0
+Learn GitLab Issues 3,"Hello!
+
+Can you please move this issue from the ""In Progress"" Column to the ""Resolved"" Column?
+
+Thank you.",5,https://gitlab.cci.drexel.edu/courseeval/team-blue/-/issues/5,Closed,Peter Mangelsdorf,pjm349,Jay Patel,jp3592,No,No,2022-02-15,2022-02-13 10:33:05,2022-02-19 20:41:26,2022-02-15 06:25:24,Sprint 1,,Topic: Team,0,0
+Learn GitLab Issues 4,"Hello!
+
+Can you please move this issue from the ""In Progress"" Column to the ""Resolved"" Column?
+
+Thank you.",6,https://gitlab.cci.drexel.edu/courseeval/team-blue/-/issues/6,Closed,Peter Mangelsdorf,pjm349,Hoang Nguyen,hn374,No,No,2022-02-15,2022-02-13 10:33:53,2022-02-15 06:10:31,2022-02-15 06:10:31,Sprint 1,,"Improvement,Topic: Team",0,0
+Set Your Gitlab Username,"## What is the engineering productivity problem to solve?
+
+Everyone has default usernames and profile pictures! 😧
+
+This makes it very difficult to tell who is who in the issue assignee drop-down!
+
+### Problem identification checklist
+
+- [x] The root cause of the problem is identified.
+- [x] The surface of the problem is as small as possible.
+
+## What are the potential solutions?
+
+1. Go to your profile page and set your **username** to your *first* and *last* name
+2. If you are feeling extra kind, also set your **profile picture**
+
+- [x] All potential solutions are listed.
+- [x] A solution has been chosen for the first iteration: **all of the above**
+
+## Verify that the solution has improved the situation
+
+(In Progress)
+
+- [ ] The solution improved the situation.
+  - If yes, check this box and close the issue. Well done! :tada:
+  - Otherwise, create a new ""Productivity Improvement"" issue. You can re-use the description from this issue, but another solution should be chosen this time.
+
+## Credit
+[GitLab Productivity Improvement Issue Template](https://gitlab.com/gitlab-org/gitlab/-/blob/master/.gitlab/issue_templates/Productivity%20Improvement.md)
+2022-02-13",7,https://gitlab.cci.drexel.edu/courseeval/team-blue/-/issues/7,Closed,Peter Mangelsdorf,pjm349,Peter Mangelsdorf,pjm349,No,No,2022-02-18,2022-02-13 10:39:05,2022-03-04 23:55:30,2022-02-15 06:12:53,Sprint 1,,"Improvement,Topic: Team",0,0
+Vote on External Group to Join,"
+### Release notes
+
+Team Blue needs to choose a project to contribute to. Our current options are:
+- [The University of Potsdam's EvaP](https://github.com/e-valuation/EvaP)
+- [Sakai's Evaluation System](https://github.com/sakaicontrib/evaluation)
+
+### Problem to solve
+
+We need to know how difficult each project is to:
+* Setup and Run
+* Modify for our Purposes
+* Maintain into the Future
+* Most fun to work on
+
+### Intended users
+
+This is intended for our developers.
+
+### User experience goal
+
+This establishes the workflow for the developers
+
+### Proposal
+
+* Independently each of us should attempt to download and run each project
+* Then on Discord after this Monday's class, we will hold a vote of confidence for each project
+
+### Further details
+
+(None)
+
+### Permissions and Security
+
+This will have some pretty significant impacts on the future of the project!
+
+### Documentation
+
+Once a choice has been made, be sure to document it in the `documents/decisions/` folder.
+
+### What does success look like, and how can we measure that?
+
+With everyone on the team satisfied with the choice!
+
+### Notifications
+@cap399 @ets43 @hn374 @jp3592 @pjm349 
+
+## Credit
+[GitLab Proposal Template](https://gitlab.com/gitlab-org/gitlab/-/blob/master/.gitlab/issue_templates/Feature%20proposal%20-%20detailed.md)
+2022-02-13",8,https://gitlab.cci.drexel.edu/courseeval/team-blue/-/issues/8,Closed,Peter Mangelsdorf,pjm349,Peter Mangelsdorf,pjm349,No,No,2022-02-14,2022-02-13 10:53:00,2022-03-04 23:55:52,2022-02-14 20:19:46,Sprint 1,,"Improvement,Topic: External,Topic: Team",0,0
+Setup Repository,"## Task
+
+Setup the following items for the repository:
+
+- [x] Repo Layout
+- [x] README
+- [x] Contributing Guidelines
+- [x] Code of Conduct
+- [x] Licenses
+- [x] Security
+- [x] Issue Templates
+- [x] First Issues
+- [x] Miscellaneous Configs
+
+## Why?
+
+Because it will make using the repo easier
+
+## Anticipated Work
+
+Lots of time spent writing Markdown and reading articles on the Web
+
+## Will Peter be Tired by the End of It?
+
+Yes.
+
+## Is the Work Done Good Enough?
+
+No. The chosen templates are abysmal and need to be replaced.
+The contributing guidelines are vague or inaccurate.
+The repo layout is unnecessary.
+And the tech stack is still undecided.
+(Ugh).",9,https://gitlab.cci.drexel.edu/courseeval/team-blue/-/issues/9,Closed,Peter Mangelsdorf,pjm349,Peter Mangelsdorf,pjm349,No,No,2022-02-14,2022-02-13 10:58:10,2022-02-14 20:18:24,2022-02-14 20:18:24,Sprint 1,,"Improvement,Topic: Docs",0,0
+Define Your Work Schedule,"'@cap399 @ets43 @hn374 @jp3592 @pjm349 
+
+### Release notes
+
+Please share your expectations/schedule/work habit for this project!
+* What do you want out of this project?
+* What days/weeks you enjoy working on?
+* What day do you want to have things done by?
+* Would you like a review period/schedule of some sort?
+
+### Problem to solve
+
+[Please complete this When 2 Meet](https://www.when2meet.com/?14591600-Zh8Tj) with the days that you would like to work on.
+
+### Intended users
+
+Team Blue Developers
+
+### User experience goal
+
+* Everyone knows everyone else's expectations
+* No one is working at hours they do not want
+
+### What does success look like, and how can we measure that?
+
+* Over time, number issues completed - issues delayed / issues total
+
+## Credit
+[GitLab Proposal Template](https://gitlab.com/gitlab-org/gitlab/-/blob/master/.gitlab/issue_templates/Feature%20proposal%20-%20detailed.md)
+2022-02-13",10,https://gitlab.cci.drexel.edu/courseeval/team-blue/-/issues/10,Closed,Peter Mangelsdorf,pjm349,Peter Mangelsdorf,pjm349,No,No,2022-02-15,2022-02-14 16:38:58,2022-03-04 23:49:59,2022-02-21 00:49:03,Sprint 1,,"Improvement,Topic: Team",0,0
+Download and Install EvaP locally,"## Problem Statement
+We need to be able to get the evaP course evaluation system running.
+
+## Who will benefit?
+Entire team.
+
+## Benefits and risks
+
+    What benefits does this bring?
+        - Greater understanding of EvaP software
+        
+    What risks might this introduce?
+        - N/A
+
+
+## Proposed solution
+User tests to see if they can download and install the EvaP course evaluation system locally. Info on installation can be found at https://github.com/e-valuation/EvaP/wiki/Installation
+
+## Deliverable
+Screenshots/brief description saying ""success"" or ""failure"" with regards to whether the team member was able to successfully get the program to run. User can upload the message/screenshot to the discord page and notify team members of the status.
+
+## Priority/Severity
+<!-- Delete as appropriate. The priority and severity assigned may be different to this !-->
+- [ ] High (This will bring a huge increase in performance/productivity/usability/legislative cover)
+- [X] Medium (This will bring a good increase in performance/productivity/usability)
+- [ ] Low (anything else e.g., trivial, minor improvements)",11,https://gitlab.cci.drexel.edu/courseeval/team-blue/-/issues/11,Closed,Charles Porter,cap399,Charles Porter,cap399,No,No,2022-02-21,2022-02-15 05:28:12,2022-03-11 06:18:22,2022-03-05 00:01:02,Sprint 1,,Proposal,0,0
+Fill out a sample course evaluation on EvaP,"## Problem Statement
+Need to test features of EvaP to see if they fit with what we are trying to develop as our course evaluation system. User needs to fill out a course evaluation system to test the software's functionality.
+
+## Who will benefit?
+Team
+
+## Proposed solution
+After the successful download and install of EvaP, a team member will run through a sample course evaluation. They will fill in answers with as much information as possible.
+
+## Deliverable
+Small report stating how the course evaluation went, what features it offered, areas it did well, and areas it could improve.
+
+## Priority/Severity
+<!-- Delete as appropriate. The priority and severity assigned may be different to this !-->
+- [ ] High (This will bring a huge increase in performance/productivity/usability/legislative cover)
+- [X] Medium (This will bring a good increase in performance/productivity/usability)
+- [ ] Low (anything else e.g., trivial, minor improvements)",12,https://gitlab.cci.drexel.edu/courseeval/team-blue/-/issues/12,Closed,Charles Porter,cap399,Charles Porter,cap399,No,No,2022-02-21,2022-02-15 05:37:00,2022-03-05 00:22:44,2022-03-05 00:22:44,Sprint 1,,"Improvement,Topic: Team",0,0
+Conduct exploratory research on front-end framerworks,"## Problem Statement
+The open-source course evaluation system would preferably utilize a front-end framework. The question is determining which existing technology will best aid in the development of the system's front end.
+
+## Who will benefit?
+Team
+
+## Benefits and risks
+
+    What benefits does this bring?
+        - Increased clarity of project development
+        - Increased development speed
+
+## Proposed solution
+A team member does an evaluation on existing front end frameworks and which framework would be the most applicable to develop the project's front end. EvaP was constructed using bootstrap.
+
+## Deliverable
+Small report listing several possible front end frameworks with benefits and drawbacks for each one. Team member offers their suggestion as to the best choice somewhere in the report.
+
+## Priority/Severity
+<!-- Delete as appropriate. The priority and severity assigned may be different to this !-->
+- [ ] High (This will bring a huge increase in performance/productivity/usability/legislative cover)
+- [ ] Medium (This will bring a good increase in performance/productivity/usability)
+- [X] Low (anything else e.g., trivial, minor improvements)",13,https://gitlab.cci.drexel.edu/courseeval/team-blue/-/issues/13,Closed,Charles Porter,cap399,Hoang Nguyen,hn374,No,No,2022-02-21,2022-02-15 05:55:58,2022-03-04 17:21:26,2022-03-04 17:21:26,Sprint 1,,"Improvement,Topic: Team",0,0
+Conduct exploratory research on backend technologies,"## Problem Statement
+Need to develop an understanding of which backend technologies will be used to develop the system. 
+
+## Who will benefit?
+Team
+
+## Benefits and risks
+
+    What benefits does this bring?
+        - Increased development speed
+
+
+## Proposed solution
+Team member conducts an investigation on which backend technologies will be used. The backend technology chosen should address the needs of the project. The chosen technology should aid in the development of the course evaluation system
+
+## Deliverable
+Brief report detailing possible backend technologies/frameworks, pros and cons of each, and a suggestion for which technology to use.
+
+## Priority/Severity
+<!-- Delete as appropriate. The priority and severity assigned may be different to this !-->
+- [ ] High (This will bring a huge increase in performance/productivity/usability/legislative cover)
+- [ ] Medium (This will bring a good increase in performance/productivity/usability)
+- [X] Low (anything else e.g., trivial, minor improvements)",14,https://gitlab.cci.drexel.edu/courseeval/team-blue/-/issues/14,Closed,Charles Porter,cap399,Eric Savoy,ets43,No,No,2022-02-28,2022-02-15 06:20:19,2022-03-04 23:48:47,2022-02-20 00:51:35,Sprint 1,,"Improvement,Topic: Docs",0,0
+Contact University of Potsdam,"## What is the engineering productivity problem to solve?
+
+Johannes Wolfe and Johannes Linke (ha!) are the two biggest contributors to EvaP and deserve to be informed of our presence.
+This can also help, as they might be able to better direct us to certain tasks.
+
+We should email one (it may be trite to create an issue *just* for us) and begin working on the project.
+
+### Problem identification checklist
+
+- [x] The root cause of the problem is identified.
+- [x] The surface of the problem is as small as possible.
+
+## What are the potential solutions?
+
+1. Email one of the above contributors
+2. Create an issue on their repos requesting assistance
+3. Do Nothing (Do not tell anyone)
+
+- [x] All potential solutions are listed.
+- [x] A solution has been chosen for the first iteration: `PUT THE CHOSEN SOLUTION HERE`
+
+## Verify that the solution has improved the situation
+
+- [ ] The solution improved the situation.
+
+## Credit
+[GitLab Productivity Improvement Issue Template](https://gitlab.com/gitlab-org/gitlab/-/blob/master/.gitlab/issue_templates/Productivity%20Improvement.md)
+2022-02-13",15,https://gitlab.cci.drexel.edu/courseeval/team-blue/-/issues/15,Closed,Peter Mangelsdorf,pjm349,Peter Mangelsdorf,pjm349,No,No,,2022-02-15 06:23:44,2022-03-05 02:24:05,2022-02-16 07:24:23,Sprint 1,,"Improvement,Topic: External",0,0
+Conduct preliminary analysis on integration of EvaP features,"## Problem Statement
+We need to determine which features/parts of the EvaP project can be implemented into our own course evaluation system.
+
+## Who will benefit?
+Team
+
+## Benefits and risks
+<!-- 
+    What benefits does this bring?
+        - Save time by not having to rewrite large chunks of code
+
+        
+    What risks might this introduce?
+        - May result in more data being shared with staff
+        - requires training materials to be updated
+        - Involves working with a specific vendor for a fixed period.
+!-->
+
+## Proposed solution
+Team member conducts analysis into the features and codebase of EvaP to see if anything can be incorporated into the team's course evaluation system. Examples include a possible feature/block of code which can serve as a base for future development
+
+## Deliverable
+Small report detailing the findings of the research. A list of possible features that can be incorporated and an analysis of their applicability and which ones prove to be the most promising. Include some steps on how to incorporate them. 
+
+## Priority/Severity
+<!-- Delete as appropriate. The priority and severity assigned may be different to this !-->
+- High (This will bring a huge increase in performance/productivity/usability/legislative cover)
+- {+ Medium (This will bring a good increase in performance/productivity/usability) +}
+- Low (anything else e.g., trivial, minor improvements)",16,https://gitlab.cci.drexel.edu/courseeval/team-blue/-/issues/16,Closed,Charles Porter,cap399,Jay Patel,jp3592,No,No,2022-03-05,2022-02-15 06:30:34,2022-03-11 06:32:58,2022-03-04 23:23:02,Sprint 1,,"Improvement,Topic: Team",0,0
+Familiarize with EvaP Status,"## What is the engineering productivity problem to solve?
+
+- People need to be familiar with how EvaP works, what issues it is currently facing, and what directions it can be taken
+- This requires having tried using the software, extending the software, and reading through the issues on their issue tracker
+
+### Problem identification checklist
+
+- [x] The root cause of the problem is identified.
+- [x] The surface of the problem is as small as possible.
+
+## What are the potential solutions?
+
+- Ensure EvaP has been installed
+- Make use of EvaP and review the included sample data
+- Inspect the Postgres Tables (Data Layout)
+- Inspect the Django Templates (Code Layout)
+- Attempt to add new Data Types
+- Attempt to add new Web Forms
+- Attempt to customize with Drexel iconography/other features
+- Visit the external issue tracker and note the most popular (most commented) issues
+- Email the primary maintainers for a walkthrough of the biggest-issues they would like covered
+
+- [ ] All potential solutions are listed.
+- [ ] A solution has been chosen for the first iteration: 
+
+## Verify that the solution has improved the situation
+
+- [ ] The solution improved the situation.
+
+## Credit
+[GitLab Productivity Improvement Issue Template](https://gitlab.com/gitlab-org/gitlab/-/blob/master/.gitlab/issue_templates/Productivity%20Improvement.md)
+2022-02-13",17,https://gitlab.cci.drexel.edu/courseeval/team-blue/-/issues/17,Closed,Peter Mangelsdorf,pjm349,Peter Mangelsdorf,pjm349,No,No,2022-02-26,2022-02-16 07:34:39,2022-03-05 02:03:37,2022-03-05 00:12:18,Sprint 1,,"Improvement,Topic: Docs",0,0
+Choose A Front End Framework,"## Problem Statement
+We need to decide on a Front End framework to use for developing our application. 
+
+## Who will benefit?
+Team
+
+## Benefits and risks
+This brings more clarity on to what tech stack we are using. We will be able to start learning or priming our brains for the upcoming development. The only risk this will bring is that we are going to finalize our tech stack and that closes a lot of options for us, as we can only use one front end framework.
+
+## Proposed solution
+We should meet up as a group for 30 minutes and discuss the exploratory research we did on front end frameworks (found on a previous ticket).
+
+## Deliverable
+The product that will emerge from this issue is a chosen front end framework written in documentation.
+
+## Priority/Severity
+- [X] High (This will bring a huge increase in performance/productivity/usability/legislative cover)
+- [ ] Medium (This will bring a good increase in performance/productivity/usability)
+- [ ] Low (anything else e.g., trivial, minor improvements)",18,https://gitlab.cci.drexel.edu/courseeval/team-blue/-/issues/18,Closed,Hoang Nguyen,hn374,Hoang Nguyen,hn374,No,No,2022-02-27,2022-02-20 23:24:47,2022-03-05 02:24:05,2022-03-04 22:53:44,,,"Improvement,Proposal,Topic: Docs",0,0
+Integrate Chosen Front End Framework Into Our EvaP Repository,"## Problem Statement
+We need to integrate the front end framework that we choose into the cloned repository of EvaP so we can start development. 
+
+## Who will benefit?
+Team
+
+## Benefits and risks
+This gives us more clarity and progress on development for our system. It gives us the foundation in which we can start developing. 
+
+## Proposed solution
+Someone can be assigned to integrate the framework and push it into the repository we are using. Everyone else will pull from the newly integrated repository.
+
+## Deliverable
+A repository with the chosen front end framework foundation in place.
+
+## Priority/Severity
+- [X] High (This will bring a huge increase in performance/productivity/usability/legislative cover)
+- [ ] Medium (This will bring a good increase in performance/productivity/usability)
+- [ ] Low (anything else e.g., trivial, minor improvements)",19,https://gitlab.cci.drexel.edu/courseeval/team-blue/-/issues/19,Closed,Hoang Nguyen,hn374,"","",No,No,2022-02-27,2022-02-20 23:31:36,2022-03-05 02:24:05,2022-03-04 17:20:06,,,"Improvement,Topic: Team",0,0
+Design The Screen Flow Diagram With Screens/Pages We'll Need,"## Problem Statement
+We need designs for our requirements. These designs will help us implement by giving us more direction and clarity.
+
+## Who will benefit?
+Team
+
+## Benefits and risks
+This gives us a clear picture of every page in our upcoming project. It is easier to implement off of designs rather than just requirements. It gives us a visual to look at so we are all on the same page.
+
+## Proposed solution
+The assigned person will either design all of the screens and screen flow diagram using a software like Figma, or draw it with pen and paper. This can also be assigned to more than one person.
+
+## Deliverable
+A Screen Flow Diagram with Low Fidelity Prototypes.
+
+## Priority/Severity
+<!-- Delete as appropriate. The priority and severity assigned may be different to this !-->
+- [ ] High (This will bring a huge increase in performance/productivity/usability/legislative cover)
+- [X] Medium (This will bring a good increase in performance/productivity/usability)
+- [ ] Low (anything else e.g., trivial, minor improvements)",20,https://gitlab.cci.drexel.edu/courseeval/team-blue/-/issues/20,Closed,Hoang Nguyen,hn374,Jay Patel,jp3592,No,No,2022-02-27,2022-02-20 23:36:59,2022-03-05 02:24:05,2022-03-05 00:27:47,,,"Proposal,Topic: Team",0,0
+Migrate Documents to New Structure,"## Problem Statement
+- Repo directory structure is not meeting class expectations
+- Privacy concerns over some content in notes has been raised
+- Realtime access to documents by team members has been requested
+- Updating Documents in multiple locations takes too much time
+- Updating Documents is not recognized as a task by the class
+
+## Who will benefit?
+- Any team members assigned to documentation tasks
+- Any external individuals with privacy concerns
+
+## Benefits and risks
+- Harder to deploy scripts and automation in Microsoft Office document formats
+- Course professor will have access to all documents (currently no risk)
+
+## Proposed solution
+- Migrate all notes and documents to Microsoft OneNote and Microsoft Word
+- Provide access to Microsoft Teams for review of documents to particular people on a limited basis
+
+## Deliverable
+- Repository directory modifications
+- Document generation and storage process modifications
+
+## Priority/Severity
+- [ ] High (This will bring a huge increase in performance/productivity/usability/legislative cover)
+- [x] Medium (This will bring a good increase in performance/productivity/usability)
+- [ ] Low (anything else e.g., trivial, minor improvements)
+
+## Tasks
+- [x] Create issue of moving documents
+- [x] Move Contributing to Root
+- [x] Move Security to Root
+- [x] Move Conduct to Root
+- [x] Move Decisions to OneNote
+- [x] Move Discussions to OneNote
+- [x] Cleanup Unused OneNote Folders
+- [x] Censor Shared Documents (No Changes Necessary)
+- [x] Update README (Repo)
+- [x] Update Changelog (Repo)
+- [x] Update Changelog (OneNote)
+- [x] Update Decisions (OneNote)
+- [x] Notify Team of Changes
+- [x] Notify Course Instructor of Changes",21,https://gitlab.cci.drexel.edu/courseeval/team-blue/-/issues/21,Closed,Peter Mangelsdorf,pjm349,Peter Mangelsdorf,pjm349,No,No,2022-02-21,2022-02-21 01:05:31,2022-03-05 02:03:37,2022-03-05 00:06:47,Sprint 1,,"Improvement,Topic: Docs",0,0
+Find and Assign Small Improvement Issues,"## Problem Statement
+- From Issue: [Familiarize with EvaP Status](https://gitlab.cci.drexel.edu/courseeval/team-blue/-/issues/17)
+- More detailed process for doing work required
+
+## Who will benefit?
+- External Team (e-valuation) will benefit from clarity of team action
+- Course Instructor will benefit from clarity of actions
+- Team Members will benefit from lack of ambiguous tasks
+- Other volunteers will benefit from 
+
+## Benefits and risks
+- EvaP Team benefits from more clear communication of intent
+- EvaP Volunteers benefit from more understandable process
+- Course Instructor benefits from more understandable process
+- Team Members benefit from more refined work process
+- Team Members at risk of getting confused/bogged down in these steps
+
+## Proposed solution
+- Using:
+  - [EvaP Minor Issues](https://github.com/e-valuation/EvaP/labels/%5BP%5D%20Minor)
+  - [EvaP Easy Issues](https://github.com/e-valuation/EvaP/labels/%5BS%5D%20Easy)
+  - [EvaP Small Issues](https://github.com/e-valuation/EvaP/labels/%5BS%5D%20Small)
+  - [EvaP Very Small Issues](https://github.com/e-valuation/EvaP/labels/%5BS%5D%20Very%20small)
+- From these find issues that can be resolved within remaining time (3 weeks)
+- SEE [Step Template for Follow On Issues](#step-template-for-follow-on-issues) below for more details
+
+## Deliverable
+- Primarily Documentation in the Repo itself (Contributing)
+- New Issues should be generated from this
+
+## Priority/Severity
+- [x] High (This will bring a huge increase in performance/productivity/usability/legislative cover)
+- [ ] Medium (This will bring a good increase in performance/productivity/usability)
+- [ ] Low (anything else e.g., trivial, minor improvements)
+
+## Step Template for Follow On Issues
+1. Find an Issue on GitHub
+2. Explore Issue Details
+3. Attempt to Recreate Issue in Code/Locate Source of Error
+4. If solution is apparent, create a notifying message on the issue on GitHub
+5. Create a mirror issue in this repo's issue tracker
+6. Make a new branch on the local GitLab mirror of EvaP and name it after the issue (like `1663-prioritize-grading`)
+7. Comment a link to your branch on the GitLab issue you opened and on the original GitHub issue
+8. Commit your changes and run tests to the local mirror
+9. Once satisfied, create a new **Pull Request** on the EvaP GitHub repo
+10. Update issues with details once submitted
+
+## Tasks
+- [x] Create Detailed Issue
+- [x] ~~Update **Decisions**~~ (Cancelled)
+- [x] Notify Team of More Details on Contributing
+- [x] Update **Contributing**
+- [x] ~~Write More detailed explanation of contribution process~~ (Cancelled)
+
+## Notify
+@cap399 @ets43 @hn374 @jp3592 @pjm349",22,https://gitlab.cci.drexel.edu/courseeval/team-blue/-/issues/22,Closed,Peter Mangelsdorf,pjm349,Peter Mangelsdorf,pjm349,No,No,2022-02-26,2022-02-21 01:27:04,2022-03-05 02:03:37,2022-03-05 00:18:56,Sprint 1,,"Improvement,Topic: Docs,Topic: External,Topic: Team",0,0
+Clarify Intent of Project,"## Problem Statement
+- There exists ambiguity regarding what the purpose of this project is
+- Is this an effort to **improve** some open source project?
+- Is this an effort to **incorporate** some open source project?
+- What, fundamentally, is the intent?
+- Per [details in the syllabus...](#the-syllabus) (Bold sections indicate ambiguity)
+- More clarity onto expectations of contributions are required.
+- Justification of why 12 issues (2.4 issues per team member) desired, as opposed to selection of 1-2 issues on the open source project's own issue tracker
+- This especially applies to addressing the requirement ""only issues that directly advance the project"" and underlying ambiguity
+- Additional requirements/expectations of system may also be desired
+- There currently exists a major split in issues regarding **improving EvaP** or **making modifications**
+
+## The Syllabus
+> - Explain the impact openness has on open source software products, processes, and business models
+> - Discuss particular examples of social impact achieved by HFOSS projects
+> - Assess the health of an open source project
+> - **Interact with an HFOSS project community in a way that demonstrates understanding of the project’s communication and control mechanisms**
+> - Complete the steps needed to **contribute to one particular HFOSS project including tool use and process steps**
+
+## Who will benefit?
+- Team Members: Clarity of intended outcome will guide issues creation and task management
+- EvaP Team: Clarity on what direction Team-Blue is taking
+
+## Benefits and risks
+- Risk: May slow project down
+- Benefit: More obvious goals
+
+## Proposed solution
+- [ ] Ask Course Instructor for Feedback regarding Design Notes (OneNote) for an Evaluation System
+- [ ] Schedule time with Course Instructor to cover intention of project and current status
+
+## Deliverable
+- New pages in OneNote regarding final product design
+- Changes to Contribution Guidelines on which task types to pursue
+
+## Priority/Severity
+- [ ] High (This will bring a huge increase in performance/productivity/usability/legislative cover)
+- [x] Medium (This will bring a good increase in performance/productivity/usability)
+- [ ] Low (anything else e.g., trivial, minor improvements)",23,https://gitlab.cci.drexel.edu/courseeval/team-blue/-/issues/23,Closed,Peter Mangelsdorf,pjm349,Peter Mangelsdorf,pjm349,No,No,2022-02-26,2022-02-21 01:49:20,2022-03-05 02:03:36,2022-03-04 23:11:06,Sprint 1,,"Improvement,Topic: Team",0,0
+Investigate EvaP Data Representation,"## Problem Statement
+- The documentation on EvaP's database (PostGres) is limited
+- Team Blue documentation on EvaP's database is also limited
+- To determine whether any changes to the database and representations are necessary, more documentation will be needed
+
+## Who will benefit?
+- EvaP Team: Any new documentation can be contributed to their wiki for other users
+- Team Blue: Any members seeking to add new functionality will benefit from a clear understanding of the data representation
+- Course Instructor: Database documentation might be used if this project is adopted for use at Drexel
+
+## Proposed solution
+- Download EvaP (use the Vagrant and Docker install method, it's much easier)
+- Refresh on SQL (Specifically PostGres SQL)
+- Use the included sample dataset
+- Consider what differences Drexel might have in how their courses are laid out
+- Record whatever details you find interesting
+
+## Deliverable
+- New documents contributed to the Microsoft Teams (OneNote, Word)
+- Drawings, notes, usage logs, or other documents
+
+## Priority/Severity
+- [ ] High (This will bring a huge increase in performance/productivity/usability/legislative cover)
+- [x] Medium (This will bring a good increase in performance/productivity/usability)
+- [ ] Low (anything else e.g., trivial, minor improvements)",24,https://gitlab.cci.drexel.edu/courseeval/team-blue/-/issues/24,Closed,Peter Mangelsdorf,pjm349,Eric Savoy,ets43,No,No,2022-02-26,2022-02-21 01:56:09,2022-03-05 02:24:05,2022-02-27 13:43:01,Sprint 1,,"Improvement,Topic: Docs",0,0
+Conduct preliminary analysis on backend technologies,"## Problem Statement
+Team needs some understanding on what the backend technologies will be which the course evaluation system will be built on top of.
+
+## Who will benefit?
+Team and developers
+
+## Proposed solution
+Team member conducts an analysis on what technologies EvaP's backend is built off of and performs an analysis of whether that technology would be a good fit for the project.
+
+## Deliverable
+Document with list of backend technologies used by EvaP and a preliminary analysis on the viability of the those technologies in the project. Document will also offer alternatives (if applicable) for technologies to build the software's backend infrastructure. 
+
+## Priority/Severity
+<!-- Delete as appropriate. The priority and severity assigned may be different to this !-->
+- [ ] High (This will bring a huge increase in performance/productivity/usability/legislative cover)
+- [X] Medium (This will bring a good increase in performance/productivity/usability)
+- [ ] Low (anything else e.g., trivial, minor improvements)",25,https://gitlab.cci.drexel.edu/courseeval/team-blue/-/issues/25,Closed,Charles Porter,cap399,Jay Patel,jp3592,No,No,2022-03-05,2022-02-21 02:51:53,2022-03-05 02:24:05,2022-03-04 23:12:51,Sprint 1,,Improvement,0,0
+Research Alternatives To VirtualBox For M1 Macbooks,"## Problem Statement
+VirtualBox, a virtual machine that EvaP uses for its development environment, is not able to be run on non-intel Macbooks (M1).
+
+## Who will benefit?
+M1 Macbook users who want to contribute to EvaP.
+
+## Benefits and risks
+The benefits are that a whole community of developers who use the M1 macbooks will be able to contribute to the EvaP project. No risks are introduced as users can choose not to install whatever software we end up using and just resort to VirtualBox.
+
+## Proposed solution
+Research and use an alternative to VirtualBox.
+
+## Deliverable
+Changes to the README that indicate how M1 macbook users can use an alternative to VirtualBox.
+
+## Priority/Severity
+<!-- Delete as appropriate. The priority and severity assigned may be different to this !-->
+- [ ] High (This will bring a huge increase in performance/productivity/usability/legislative cover)
+- [X] Medium (This will bring a good increase in performance/productivity/usability)
+- [ ] Low (anything else e.g., trivial, minor improvements)",26,https://gitlab.cci.drexel.edu/courseeval/team-blue/-/issues/26,Closed,Hoang Nguyen,hn374,Hoang Nguyen,hn374,No,No,,2022-03-04 22:11:59,2022-03-05 02:24:05,2022-03-04 22:24:55,,,,0,0
+Research Docker vs VirtualBox as a Virtual Machine,"## Problem Statement
+We are trying to compare VirtualBox to Docker to see what is a better option for EvaP long term. There are already issues with VirtualBox for the new M1 mac books.
+
+## Who will benefit?
+It will benefit anyone working on the EvaP project in the future. It will especially benefit M1 mac book users if we end up with Docker as the better answer.
+
+## Benefits and risks
+It will bring a community of M1 mac book users who want to contribute to EvaP.
+
+## Proposed solution
+We should research and compare Docker with VirtualBox.
+
+## Deliverable
+A report or pros and cons list of Docker vs VirtualBox. 
+
+## Priority/Severity
+<!-- Delete as appropriate. The priority and severity assigned may be different to this !-->
+- [ ] High (This will bring a huge increase in performance/productivity/usability/legislative cover)
+- [ ] Medium (This will bring a good increase in performance/productivity/usability)
+- [X] Low (anything else e.g., trivial, minor improvements)
+
+## Comparison
+https://www.smarthomebeginner.com/what-is-docker-docker-vs-virtualbox/
+
+Docker: 
+1. Docker can already run Intel VMs on Apple Silicon. 
+2. Docker is becoming increasingly popular which leads to more support long term. 
+3. Docker offers the ability to run multiple applications within the same host operating system, sharing underlying resources. 
+4. Docker has more functionality and it is more efficient at running apps. 
+5. Docker is better for running apps and services in containers because it is faster and easier. 
+6. As good as Docker is, it can't replace a virtual machine.
+
+VirtualBox: 
+1. VirtualBox is good for virtual machines because it allows you to install a complete operating system while in Docker you don't have the full functionality of an operating system. 
+2. Creating virtual machines take a relatively long time while Dockers can be created in seconds. 
+3. Virtual machines are generally bigger in size compared to Docker because they contain a whole operating system underneath.
+
+Overall for EvaP, it looks like Docker is better because of its increasing support and higher efficiency. We do not need a whole virtual machine to run EvaP, as we can isolate it to just the web application.",27,https://gitlab.cci.drexel.edu/courseeval/team-blue/-/issues/27,Closed,Hoang Nguyen,hn374,"","",No,No,,2022-03-04 22:25:15,2022-03-05 02:24:05,2022-03-04 22:42:56,,,,0,0
+Improve Installation Steps,"## What is the engineering productivity problem to solve?
+
+Some team members have experienced difficulty with contributing changes or otherwise installing EvaP. This may be due to the adjustments necessary to install it *for this project* not being immediately apparent.
+
+### Problem identification checklist
+
+- [x] The root cause of the problem is identified.
+- [x] The surface of the problem is as small as possible.
+
+## What are the potential solutions?
+
+Creating an installation guide is the most immediate and obvious solution.
+
+- [x] All potential solutions are listed.
+- [x] A solution has been chosen for the first iteration: Create an Installation Guide
+
+## Verify that the solution has improved the situation
+
+## Credit
+[GitLab Productivity Improvement Issue Template](https://gitlab.com/gitlab-org/gitlab/-/blob/master/.gitlab/issue_templates/Productivity%20Improvement.md)
+2022-02-13",28,https://gitlab.cci.drexel.edu/courseeval/team-blue/-/issues/28,Closed,Peter Mangelsdorf,pjm349,Peter Mangelsdorf,pjm349,No,No,2022-03-04,2022-03-05 01:55:08,2022-03-05 02:24:05,2022-03-05 01:55:50,Sprint 1,,"Topic: Docs,Topic: Team",0,0
+Documentation Update #3,"## Context
+2022-03-04T16:19:00-04:00  
+Peter James Mangelsdorf  
+On Discord Call  
+Working on Miscellaneous Requirements  
+
+## Work To Do
+- Figure out what needs to be done
+  - Join Discord at Time to Help Others
+  - Review Messages/Grades/Emails from Course Instructor
+  - Update Notebook with Changes
+  - Ensure EvaP installed correctly (Self)
+  - Also write-up install steps and post as a document
+- Fix Repo Folders (Some Documents Incorrectly Added)
+  - Remove Decisions (In OneNote already)
+  - Move Eric's Analysis to a Word Document
+  - Ensure All Issues Link to OneDrive locations
+- Update Peter's Issues
+  - (FIND peter's issues)
+  - [Clarify Intent of Project (#23) · Issues · CourseEval / Team Blue · GitLab (drexel.edu)](https://gitlab.cci.drexel.edu/courseeval/team-blue/-/issues/23)
+  - [Find and Assign Small Improvement Issues (#22) · Issues · CourseEval / Team Blue · GitLab (drexel.edu)](https://gitlab.cci.drexel.edu/courseeval/team-blue/-/issues/22)
+  - [Migrate Documents to New Structure (#21) · Issues · CourseEval / Team Blue · GitLab (drexel.edu)](https://gitlab.cci.drexel.edu/courseeval/team-blue/-/issues/21)
+  - [Familiarize with EvaP Status (#17) · Issues · CourseEval / Team Blue · GitLab (drexel.edu)](https://gitlab.cci.drexel.edu/courseeval/team-blue/-/issues/17)
+  - Create EvaP Improvement Issues (Specifically Feature Enhancement or Bugfix)
+  - OPTIONAL Investigate Docker as alternative to Vmware (Seems Hoang is handling this)
+- FOLLOWUP on other team members' issues
+  - Ensure issues have a CONCLUSION
+  - Ensure issues have a RESULTS LINK
+  - Ensure CLOSED issues are updated
+  - Move DONE to CLOSED
+  - Remove ""In-Progress"" from Closed Issues
+- Status Report
+  - Rename/Reformat
+  - Update Status Report (Word Document) with Details (Personal)
+    - Documentation Updates
+    - Project Installation/Workflow
+    - Project Familiarization?
+  - Update Status Report with Missing Members
+  - Submit to Professor on Blackboard
+- Fix OneDrive File Layout (Some Things Not Where They Should Be)
+  - Rename Files to have ISODATE lead-in
+  - Move important files to docs/
+  - Update SharePoint page with correct info
+- Create New Issues (For Me)
+  - Document Better Installation
+  - Documentation Update #3 (This Note)
+- Create New Issues for Team Members (Prospective?)
+  - Grab from E-Valuation's Issue Tracker
+
+(From: https://drexel0.sharepoint.com/:o:/r/sites/FA22Q2SE420/SiteAssets/FA22Q2%20SE420%20Notebook?d=w3cbd136f82f2431284f2ca6df2ef9c9e&csf=1&web=1&e=eCoG7e)",29,https://gitlab.cci.drexel.edu/courseeval/team-blue/-/issues/29,Closed,Peter Mangelsdorf,pjm349,Peter Mangelsdorf,pjm349,No,No,2022-03-04,2022-03-05 02:03:36,2022-03-05 02:24:04,2022-03-05 02:06:27,Sprint 1,,"Topic: Docs,Topic: Team",0,0
+Conduct exploration into adding additional filters and categories for evaluation,"## Problem Statement
+EvaP currently only classifies evaluations into a limited number of categories. These categories can be expanded to better match Drexel's course load. Additional categories can include the various majors that Drexel offers (ex. Computer Science, Software Engineering) and the classes within each major (ex. CS260, SSE420). This functionality would make the course evaluation system more applicable to Drexel's situation.
+
+## Who will benefit?
+Drexel IT Staff
+Team
+
+## Benefits and risks
+
+What benefits does this bring?
+- Course evaluations system that better aligns with Drexel's course catologue
+        
+What risks might this introduce?
+- Changing codebase may affect other features
+- May make changes to the code base that are difficult to repair
+
+
+## Proposed solution
+Team members conduct exploratory research in EvaP's codebase to determine how additional functionality for filters and categories would be implemented.
+
+## Deliverable
+Short summary/report that addresses the following questions:
+- Which portion of the code contributes to EvaP's filter feature?
+- Which portion of the code assigns categories to each evaluation?
+- How would we implement functionality to include Drexel's course catologue?
+
+## Priority/Severity
+<!-- Delete as appropriate. The priority and severity assigned may be different to this !-->
+- [ ] High (This will bring a huge increase in performance/productivity/usability/legislative cover)
+- [X] Medium (This will bring a good increase in performance/productivity/usability)
+- [ ] Low (anything else e.g., trivial, minor improvements)",30,https://gitlab.cci.drexel.edu/courseeval/team-blue/-/issues/30,Closed,Charles Porter,cap399,Charles Porter,cap399,No,No,2022-03-11,2022-03-05 02:08:01,2022-03-12 03:14:39,2022-03-12 03:14:39,Sprint 2 (Final),,Improvement,0,0
+Extract Customization to Folder,"## Problem Statement
+
+Lots of banners, banner logos, user names, default names, background colors, and other items are hard-coded into the EvaP application. To make this application useful to Drexel, these customizations need to be changed.
+
+## Who will benefit?
+- Our Team
+- Future Drexel Users
+- E-Valuation's Team
+- Other EvaP Users
+
+## Benefits and risks
+- May be a massive time sink
+- May be dull work
+- May significantly improve application robustness (reduce errors, especially with renaming operations)
+
+## Proposed solution
+As opposed to just directly modifying the values (and potentially missing a few), we should instead investigate how difficult it would instead be to express these items in terms of plaintext configs and from a central ""customization"" folder.
+
+The advantage of this is that the ""customization"" folder can be excluded from the EvaP fork, and each forking organization can provide their own customizations, rather than needing to overwrite the E-Valuation team's customizations.
+
+## Deliverable
+- A Word Document in the `docs/` folder on OneDrive
+- A new branch on Drexel's EvaP Fork
+- (If Possible) an Issue/Pull Request on E-Valuation's Repo
+
+## Priority/Severity
+- [x] High (This will bring a huge increase in performance/productivity/usability/legislative cover)
+- [ ] Medium (This will bring a good increase in performance/productivity/usability)
+- [ ] Low (anything else e.g., trivial, minor improvements)",31,https://gitlab.cci.drexel.edu/courseeval/team-blue/-/issues/31,Closed,Peter Mangelsdorf,pjm349,Peter Mangelsdorf,pjm349,No,No,2022-03-11,2022-03-05 03:14:52,2022-03-12 03:14:56,2022-03-12 03:14:51,Sprint 2 (Final),,"Improvement,Topic: Code,Topic: External",0,0
+Create Dockerfile For The Container,"## Problem Statement
+We need to use Docker to create containers for users who can't use VirtualBox.
+
+## Who will benefit?
+This will benefit all users who want to use Docker.
+
+## Benefits and risks
+Creating a Dockerfile makes it so that the repository and virtual environment are easily recreatable on each machine. 
+
+## Proposed solution
+Create the Dockerfile with all the needed images as commands.
+
+## Deliverable
+A Dockerfile.
+
+## Priority/Severity
+<!-- Delete as appropriate. The priority and severity assigned may be different to this !-->
+- [ ] High (This will bring a huge increase in performance/productivity/usability/legislative cover)
+- [x] Medium (This will bring a good increase in performance/productivity/usability)
+- [ ] Low (anything else e.g., trivial, minor improvements)",32,https://gitlab.cci.drexel.edu/courseeval/team-blue/-/issues/32,Closed,Hoang Nguyen,hn374,Hoang Nguyen,hn374,No,No,2022-03-11,2022-03-12 00:41:15,2022-03-12 00:45:17,2022-03-12 00:41:45,,,Proposal,0,0
